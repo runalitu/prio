@@ -312,5 +312,23 @@ hr {
    .aboutme {
       margin: 0px 20px;
    }
-
+ .navBar{
+   flex-direction: column;
+   padding: 50px 20px;
+   justify-content: center;
+   align-items: center;
+ }
+ .baba{
+   flex-direction: column;
+   padding-left: 20px;
+ }
+ header{
+   background-image: url('images/header_bg.png'), url('images/developer.png');
+   background-repeat: no-repeat;
+   background-position: bottom left;
+ }
+.footerajkaj{
+   padding: 20px;
+   flex-direction: column;
+}
 }
